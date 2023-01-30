@@ -55,5 +55,6 @@ main() {
       fleet[i].forEach((dog) => sum1 = dog.weight + sum1);
       print(sum1);
     }
+
   }
 }
